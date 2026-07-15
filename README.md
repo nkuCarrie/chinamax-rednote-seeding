@@ -86,6 +86,7 @@ cp -R chinamax-xhs-seeding ~/.codex/skills/
 Use $chinamax-xhs-seeding to package this product or business into a Xiaohongshu seeding carousel.
 ```
 
+如果你的AI Agent不是codex。直接把仓库复制，“请读取这个仓库中的 SKILL.md，并在需要时读取 references/ 下的三个参考文件。按 SKILL.md 的 Required Output 结构，为我生成小红书/Rednote 国风种草组图方案。”
 ## 目录结构
 
 ```text
