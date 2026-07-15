@@ -31,20 +31,20 @@ Chinamax XHS Seeding 是一个面向国风商家和文化生活方式品牌的 C
 
 #### 非遗螺钿手作
 
-| 原始素材 | 小红书种草组图 |
+| 原始素材举例 | 小红书种草组图 |
 | --- | --- |
 | ![螺钿原始素材](assets/examples/before-luodian-craft.png) | ![螺钿小红书组图](assets/examples/after-luodian-craft-carousel.png) |
 
 #### 手绘小鸟杯
 
-| 原始素材 | 小红书种草组图 |
+| 原始素材举例 | 小红书种草组图 |
 | --- | --- |
 | ![小鸟杯原始素材](assets/examples/before-bird-cup.png) | ![小鸟杯小红书组图](assets/examples/after-bird-cup-carousel.png) |
 
 
 #### 中式团扇手作
 
-| 原始素材 | 小红书种草组图 |
+| 原始素材举例 | 小红书种草组图 |
 | --- | --- |
 | ![团扇原始素材](assets/examples/before-embroidered-fan.png)![凤凰团扇参考素材](assets/examples/before-embroidered-phoenix-fan.png) | ![团扇小红书组图](assets/examples/after-embroidered-fan-carousel.png) |
 
