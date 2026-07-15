@@ -28,11 +28,6 @@ Chinamax XHS Seeding 是一个面向国风商家和文化生活方式品牌的 C
 
 这个 skill 会把普通商家素材转化为更适合小红书传播的组图：封面标题更明确、每页逻辑更完整、卖点更贴近消费者、CTA 更自然，整体视觉保持统一的国风审美。
 
-#### 中式团扇手作
-
-| 原始素材 | 小红书种草组图 |
-| --- | --- |
-| ![团扇原始素材](assets/examples/before-embroidered-fan.png)![凤凰团扇参考素材](assets/examples/before-embroidered-phoenix-fan.png) | ![团扇小红书组图](assets/examples/after-embroidered-fan-carousel.png) |
 
 #### 非遗螺钿手作
 
@@ -47,7 +42,11 @@ Chinamax XHS Seeding 是一个面向国风商家和文化生活方式品牌的 C
 | ![小鸟杯原始素材](assets/examples/before-bird-cup.png) | ![小鸟杯小红书组图](assets/examples/after-bird-cup-carousel.png) |
 
 
+#### 中式团扇手作
 
+| 原始素材 | 小红书种草组图 |
+| --- | --- |
+| ![团扇原始素材](assets/examples/before-embroidered-fan.png)![凤凰团扇参考素材](assets/examples/before-embroidered-phoenix-fan.png) | ![团扇小红书组图](assets/examples/after-embroidered-fan-carousel.png) |
 
 
 ## 适用场景
