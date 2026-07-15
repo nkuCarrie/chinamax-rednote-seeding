@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chinamax 小红书种草"
+  short_description: "把国风商家素材包装成小红书种草组图"
+  default_prompt: "Use $chinamax-xhs-seeding to package my guofeng business or product into a Xiaohongshu seeding carousel."
